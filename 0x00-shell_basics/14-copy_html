@@ -1,3 +1,4 @@
 #!/bin/bash
-find . -maxdepth 1 -name "*.html" -newer ../ -exec sh -c 'cp "$1" ../' _ {} \;
+find . -maxdepth 1 -name "*.html" -newer ../ -exec sh -c 'cp "$1" ../' _ {} &
+
 
