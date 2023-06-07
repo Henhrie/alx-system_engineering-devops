@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Get the absolute path of the current working directory
+current_directory=$(pwd)
+
+# Print the absolute path and add a new line at the end
+echo $current_directory
+
+# Add a new line at the end of the file
+echo
