@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The type of the file named iamafile is: $(file -b iamafile)"
+file /tmp/iamafile
