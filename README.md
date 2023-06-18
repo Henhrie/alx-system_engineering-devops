@@ -4,9 +4,9 @@ Welcome to the Shell Basics Introduction repository! This repository aims to pro
 
 Contents
 ------
-**Introduction to Shell Scripting: Learn the fundamentals of shell scripting, including variables, loops, conditionals, and functions.
-**Command-Line Navigation: Discover how to navigate the command line, work with directories and files, and perform basic file operations.
-**Shell Utilities: Explore useful shell utilities and commands for text processing, file manipulation, and system administration.
+* Introduction to Shell Scripting: Learn the fundamentals of shell scripting, including variables, loops, conditionals, and functions.
+* Command-Line Navigation: Discover how to navigate the command line, work with directories and files, and perform basic file operations.
+* Shell Utilities: Explore useful shell utilities and commands for text processing, file manipulation, and system administration.
 
 Usage
 -----
