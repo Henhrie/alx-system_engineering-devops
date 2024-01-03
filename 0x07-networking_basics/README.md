@@ -1,0 +1,3 @@
+Networking Basics #0
+This project is part of the DevOps curriculum and is intended to teach the basics of networking. The project will take 48 hours to complete. 
+What is the OSI model, how is it organised, and how many levels does it have? What is a LAN, how is it used, and how big is it geographically? What is a WAN, how is it used, and how big is it geographically? What is the internet, what is an IP address, and what are the two sorts of IP addresses? What is the difference between a localhost and a subnet? Why was IPv6 created? What are TCP/UDP and what is the difference between them? Understand what a port is and memorise SSH, HTTP, and HTTPS port numbers. What tool/protocol is commonly used to determine whether a device is connected to a network?
