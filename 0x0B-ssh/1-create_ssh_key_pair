@@ -1,4 +1,19 @@
-#!/usr/bin/env bash
-# Creates a new 4096-byte RSA key pair named school
+#!/bin/bash
 
-ssh-keygen -b 4096 -N betty -f school
+# Set the key file names
+private_key_file="school"
+public_key_file="${private_key_file}.pub"
+
+# Number of bits for the key
+key_bits=4096
+
+# Passphrase for the private key
+passphrase="betty"
+
+# Generate the RSA key pair
+ssh-keygen -t rsa -b $key_bits -f $private_key_file -N $passphrase
+
+# Print success message
+echo "RSA key pair created successfully."
+echo "Private key saved to: $private_key_file"
+echo "Public key saved to: $public_key_file"
